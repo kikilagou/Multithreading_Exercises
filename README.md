@@ -1,1 +1,1 @@
-Multithreading exercises
+Multithreading exercises in Java
